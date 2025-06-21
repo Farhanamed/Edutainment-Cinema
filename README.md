@@ -5,3 +5,25 @@ Edutainment Cinema was created to address these challenges and explore the poten
 Edutainment Cinema features a clean and user-friendly primary search bar, allowing users to search and enjoy videos across genres. It also integrates Web Speech API-powered voice search for enhanced ease and accessibility. With a fully responsive interface, the platform ensures optimal viewing on PCs, tablets, and smartphones. The sleek design is further enriched by branding elements, such as the "Edutainment Cinema" title displayed next to the logo.
 
 Beyond its technical execution, the project demonstrates a strong focus on user privacy, performance, and clean design. It is ideal for educational institutions, content-focused users, and anyone seeking a customizable, clutter-free video platform that emphasizes content and usability.
+
+**DETAILED SPECIFICATIONS** 
+ 
+1. **HOMEPAGE**: 
+The homepage of Edutainment Cinema offers a clean, responsive, and 
+engaging user interface that allows viewers to explore and enjoy a wide variety 
+of videos. Content is neatly organized into different categories to enhance 
+accessibility and user experience. Key sections on the homepage include: - 
+ **New Videos Section** – Displays the most recently uploaded content. 
+ **Latest Video Section** – Highlights trending or recently popular videos. 
+ **Music Videos Section** – Showcases songs and musical performances. 
+ **Education Videos Section** – Contains educational and informative content. 
+ **Podcast Videos Section** – Features podcast-style video content. 
+ **Movie Section** – Lists movie clips, trailers, and film-related content. 
+ **Gaming Videos Section** – Includes gameplay, reviews, and live streams. 
+ **Live Video Section** – Displays currently live streaming videos. 
+ ***Sport Video Section** – Covers sports highlights and related content. 
+ **Fashion Video Section** – Offers videos on fashion trends and styling. 
+ **Beauty Video Section** – Focuses on beauty tutorials and tips. 
+ **Comedy Video Section** – Includes humorous and entertaining clips. 
+ **Gym Videos Section** – Provides fitness and workout-related videos. 
+ **Crypto Videos Section** – Covers cryptocurrency news and education.
