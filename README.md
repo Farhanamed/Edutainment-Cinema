@@ -14,7 +14,7 @@ Edutainment Cinema features a clean and user-friendly primary search bar, allowi
 
 Beyond its technical execution, the project demonstrates a strong focus on user privacy, performance, and clean design. It is ideal for educational institutions, content-focused users, and anyone seeking a customizable, clutter-free video platform that emphasizes content and usability.
 
-**DETAILED SPECIFICATIONS** 
+## **DETAILED SPECIFICATIONS** 
  
 1. **HOMEPAGE**: 
 The homepage of Edutainment Cinema offers a clean, responsive, and 
