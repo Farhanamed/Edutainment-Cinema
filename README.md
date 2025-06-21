@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://i.ibb.co/s9Qys2j/logo.png" alt="Edutainment Cinema Logo" width="150"/>
 
