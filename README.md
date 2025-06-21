@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/99cbf7c7-c941-4e9f-9ac7-7a17bbe68dde)Consuming video content has become a major way to share knowledge, learn new things, and enjoy amusement in the current digital era. While platforms like YouTube dominate this space with extensive content libraries and sophisticated personalization, they often come with drawbacks — including invasive ads, excessive user tracking, and limited customization options.
+Consuming video content has become a major way to share knowledge, learn new things, and enjoy amusement in the current digital era. While platforms like YouTube dominate this space with extensive content libraries and sophisticated personalization, they often come with drawbacks — including invasive ads, excessive user tracking, and limited customization options.
 
 Edutainment Cinema was created to address these challenges and explore the potential of building cutting-edge, immersive web applications. Built using React.js, Material UI 5, and the YouTube Data API v3 (via RapidAPI), this project serves as a streamlined YouTube clone. It provides an ad-free, distraction-free, and user-centric video streaming experience, while also acting as a learning model for developers aiming to create scalable, feature-rich frontend applications.
 
@@ -76,7 +76,7 @@ The Edutainment Cinema project has been successfully deployed and is accessible 
 This link provides full access to all features and sections of the Edutainment Cinema platform.
 1. **QR Code for Easy Access**: <br>
 To facilitate quick and convenient access, users may scan the QR code provided below using their mobile device cameras. <br>
-This will directly redirect you to the live Edutainment Cinema website. <br>
+This will directly redirect you to the live Edutainment Cinema website. <br><br><br>
 **SCAN QR CODE** <br>
 ![image](https://github.com/user-attachments/assets/6bca8448-c7e4-41f7-b2a4-5281771cb08f)
 
