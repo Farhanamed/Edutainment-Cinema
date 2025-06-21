@@ -13,17 +13,20 @@ The homepage of Edutainment Cinema offers a clean, responsive, and
 engaging user interface that allows viewers to explore and enjoy a wide variety 
 of videos. Content is neatly organized into different categories to enhance 
 accessibility and user experience. Key sections on the homepage include: -<br> 
- **New Videos Section** – Displays the most recently uploaded content.<br> 
- **Latest Video Section** – Highlights trending or recently popular videos.<br> 
- **Music Videos Section** – Showcases songs and musical performances.<br> 
- **Education Videos Section** – Contains educational and informative content.<br> 
- **Podcast Videos Section** – Features podcast-style video content.<br> 
- **Movie Section** – Lists movie clips, trailers, and film-related content.<br> 
- **Gaming Videos Section** – Includes gameplay, reviews, and live streams. 
- **Live Video Section** – Displays currently live streaming videos. 
- ***Sport Video Section** – Covers sports highlights and related content. 
- **Fashion Video Section** – Offers videos on fashion trends and styling. 
- **Beauty Video Section** – Focuses on beauty tutorials and tips. 
- **Comedy Video Section** – Includes humorous and entertaining clips. 
- **Gym Videos Section** – Provides fitness and workout-related videos. 
- **Crypto Videos Section** – Covers cryptocurrency news and education.
+ **New Videos Section** – Displays the most recently uploaded content.<br> 
+ **Latest Video Section** – Highlights trending or recently popular videos.<br> 
+ **Music Videos Section** – Showcases songs and musical performances.<br> 
+ **Education Videos Section** – Contains educational and informative content.<br> 
+ **Podcast Videos Section** – Features podcast-style video content.<br> 
+ **Movie Section** – Lists movie clips, trailers, and film-related content.<br> 
+ **Gaming Videos Section** – Includes gameplay, reviews, and live streams.<br> 
+ **Live Video Section** – Displays currently live streaming videos.<br> 
+ ***Sport Video Section** – Covers sports highlights and related content.<br> 
+ **Fashion Video Section** – Offers videos on fashion trends and styling.<br> 
+ **Beauty Video Section** – Focuses on beauty tutorials and tips.<br> 
+ **Comedy Video Section** – Includes humorous and entertaining clips.<br> 
+ **Gym Videos Section** – Provides fitness and workout-related videos.<br> 
+ **Crypto Videos Section** – Covers cryptocurrency news and education.<br>
+![image](https://github.com/user-attachments/assets/53b6fc72-873f-486a-b086-693d5a762709)
+
+
