@@ -1,11 +1,10 @@
 <div align="center">
 
-<h1>EDUTAINMENT CINEMA</h1>
+<img src="https://i.ibb.co/s9Qys2j/logo.png" alt="Edutainment Cinema Logo" width="150"/>
+
+# EDUTAINMENT CINEMA
 
 </div>
-
-![image](https://github.com/user-attachments/assets/d501af1d-7c5a-4743-9aa5-5b62c0efaa8c)
-
 
 Consuming video content has become a major way to share knowledge, learn new things, and enjoy amusement in the current digital era. While platforms like YouTube dominate this space with extensive content libraries and sophisticated personalization, they often come with drawbacks — including invasive ads, excessive user tracking, and limited customization options.
 
