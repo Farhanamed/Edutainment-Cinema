@@ -79,13 +79,13 @@ g)	**Homepage layout as viewed on a Tablet (iPad Pro), featuring a compact inter
 ![image](https://github.com/user-attachments/assets/cb34ce0e-13ba-4661-99fe-f3c232fef5da) <br>
 
 
-**LIVE WEBSITE ACCESS** <br>
+## **LIVE WEBSITE ACCESS** <br>
 The Edutainment Cinema project has been successfully deployed and is accessible through the internet. The application has been developed with a responsive design approach, ensuring optimal performance and display across a variety of modern devices including smartphones, tablets, laptops, and desktop computers.<br>
 This link provides full access to all features and sections of the Edutainment Cinema platform.
 1. **QR Code for Easy Access**: <br>
 To facilitate quick and convenient access, users may scan the QR code provided below using their mobile device cameras. <br>
 This will directly redirect you to the live Edutainment Cinema website. <br><br><br>
-**SCAN QR CODE** <br>
+## **SCAN QR CODE** <br>
 ![image](https://github.com/user-attachments/assets/6bca8448-c7e4-41f7-b2a4-5281771cb08f)
 
 
