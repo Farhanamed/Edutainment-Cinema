@@ -1,4 +1,8 @@
-### **EDUTAINMENT CINEMA** <br>
+<div align="center">
+
+<h1>EDUTAINMENT CINEMA</h1>
+
+</div>
 ![image](https://github.com/user-attachments/assets/d501af1d-7c5a-4743-9aa5-5b62c0efaa8c)
 
 
