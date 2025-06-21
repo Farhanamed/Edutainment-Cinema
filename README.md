@@ -1,27 +1,7 @@
-INTRODUCTION 
-Consuming video content has become a major way to share knowledge, learn 
-new things, and pass along amusement in the current digital era. Despite 
-dominating this market with their extensive content libraries and sophisticated 
-personalisation, platforms like YouTube frequently have drawbacks including 
-invasive ads, excessive user tracking, and a lack of customisation options. 
- 
-Edutainment Cinema was created to address these challenges and investigate the 
-possibilities of creating cutting-edge, immersive web apps. Using React.js, 
-Material UI 5, and the YouTube Data API v3 accessed using RapidAPI, this 
-project is a condensed YouTube clone. It provides an ad-free, distraction-free, 
-and user-centric video streaming experience while also serving as a thorough 
-learning model for developers looking to build scalable and feature-rich front
-end applications. 
-Through a clear and user-friendly primary search bar, Edutainment Cinema 
-allows users to search and enjoy videos across genres. Additionally, it integrates 
-Web Speech API-powered voice search capabilities, enhancing user ease and 
-accessibility. Because the interface is entirely responsive, PCs, tablets, and 
-smartphones can all view and interact with it at their best. A sleek and expert 
-appearance is further enhanced by branding components like the title 
-"Edutainment Cinema," which is placed next to the logo. 
- 
-Beyond its technical execution, the project demonstrates a dedication to user 
-privacy, performance, and clean design. It is perfect for educational institutions, 
-content-focused users, and everyone else looking for a customisable and clutter
-free video platform because it only concentrates on content and usability. 
- 
+Consuming video content has become a major way to share knowledge, learn new things, and enjoy amusement in the current digital era. While platforms like YouTube dominate this space with extensive content libraries and sophisticated personalization, they often come with drawbacks — including invasive ads, excessive user tracking, and limited customization options.
+
+Edutainment Cinema was created to address these challenges and explore the potential of building cutting-edge, immersive web applications. Built using React.js, Material UI 5, and the YouTube Data API v3 (via RapidAPI), this project serves as a streamlined YouTube clone. It provides an ad-free, distraction-free, and user-centric video streaming experience, while also acting as a learning model for developers aiming to create scalable, feature-rich frontend applications.
+
+Edutainment Cinema features a clean and user-friendly primary search bar, allowing users to search and enjoy videos across genres. It also integrates Web Speech API-powered voice search for enhanced ease and accessibility. With a fully responsive interface, the platform ensures optimal viewing on PCs, tablets, and smartphones. The sleek design is further enriched by branding elements, such as the "Edutainment Cinema" title displayed next to the logo.
+
+Beyond its technical execution, the project demonstrates a strong focus on user privacy, performance, and clean design. It is ideal for educational institutions, content-focused users, and anyone seeking a customizable, clutter-free video platform that emphasizes content and usability.
