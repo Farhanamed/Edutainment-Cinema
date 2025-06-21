@@ -12,13 +12,13 @@ Beyond its technical execution, the project demonstrates a strong focus on user 
 The homepage of Edutainment Cinema offers a clean, responsive, and 
 engaging user interface that allows viewers to explore and enjoy a wide variety 
 of videos. Content is neatly organized into different categories to enhance 
-accessibility and user experience. Key sections on the homepage include: - 
- **New Videos Section** – Displays the most recently uploaded content. 
- **Latest Video Section** – Highlights trending or recently popular videos. 
- **Music Videos Section** – Showcases songs and musical performances. 
- **Education Videos Section** – Contains educational and informative content. 
- **Podcast Videos Section** – Features podcast-style video content. 
- **Movie Section** – Lists movie clips, trailers, and film-related content. 
+accessibility and user experience. Key sections on the homepage include: -<br> 
+ **New Videos Section** – Displays the most recently uploaded content.<br> 
+ **Latest Video Section** – Highlights trending or recently popular videos.<br> 
+ **Music Videos Section** – Showcases songs and musical performances.<br> 
+ **Education Videos Section** – Contains educational and informative content.<br> 
+ **Podcast Videos Section** – Features podcast-style video content.<br> 
+ **Movie Section** – Lists movie clips, trailers, and film-related content.<br> 
  **Gaming Videos Section** – Includes gameplay, reviews, and live streams. 
  **Live Video Section** – Displays currently live streaming videos. 
  ***Sport Video Section** – Covers sports highlights and related content. 
