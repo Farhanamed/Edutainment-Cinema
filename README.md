@@ -1,4 +1,4 @@
-##EDUTAINMENT CINEMA <br>
+###**EDUTAINMENT CINEMA** <br>
 ![image](https://github.com/user-attachments/assets/d501af1d-7c5a-4743-9aa5-5b62c0efaa8c)
 
 
